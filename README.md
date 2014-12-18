@@ -2,7 +2,7 @@
 
 Twitter bot that is meant to be run on a Raspberry Pi with an external screen. Uses twitter streaming API to look for tweets containing certain keywords, downloads images from those tweets and presents them in the form of a slideshow.
 
-Written with Node.js, Coffescript and Bash.
+Written with Node.js, Coffeescript and Bash.
 
 
 ## Motivation
