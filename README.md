@@ -9,6 +9,9 @@ Written with Node.js, Coffeescript and Bash.
 
 Used as a Christmas hack with the goal of opting out of the whole xmas card sending shenanigans. A gingerbread-hand holding a frosting-phone was built around a Raspberry Pi connected to a tiny screen. Instead of postcards, friends and family could send christmas tweets to us with an attached image. The image would then be downloaded and displayed on the “phone”.
 
+![](https://pbs.twimg.com/media/B5LH7l9IEAATIMH.jpg:small)
+![](https://pbs.twimg.com/media/B5LH7sVIgAEFY1b.jpg:small)
+
 I also built in auto reply functionality but twitter blocks automated @replies and mentions done through their API. Which seems reasonable now that I think about it. 
 
 ## Installation
